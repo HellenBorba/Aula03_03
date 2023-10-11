@@ -1,6 +1,6 @@
 # Aula03_03
 
-Faça um programa em JAVA que verifique quais são os números múltiplos de 2. 
+Faça um programa em JAVA que verifique quais são os números múltiplos de 2, dentro de uma seleção de números. 
 
 
 ~~~
